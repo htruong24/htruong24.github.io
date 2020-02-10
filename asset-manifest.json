@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/money-tools-app/static/css/main.79908598.chunk.css",
-    "main.js": "/money-tools-app/static/js/main.8652232c.chunk.js",
-    "main.js.map": "/money-tools-app/static/js/main.8652232c.chunk.js.map",
-    "runtime-main.js": "/money-tools-app/static/js/runtime-main.6d1b77f8.js",
-    "runtime-main.js.map": "/money-tools-app/static/js/runtime-main.6d1b77f8.js.map",
-    "static/js/2.78dadd51.chunk.js": "/money-tools-app/static/js/2.78dadd51.chunk.js",
-    "static/js/2.78dadd51.chunk.js.map": "/money-tools-app/static/js/2.78dadd51.chunk.js.map",
-    "index.html": "/money-tools-app/index.html",
-    "precache-manifest.1c242c3f7ef3f013a41b38c83fa4eb1a.js": "/money-tools-app/precache-manifest.1c242c3f7ef3f013a41b38c83fa4eb1a.js",
-    "service-worker.js": "/money-tools-app/service-worker.js",
-    "static/css/main.79908598.chunk.css.map": "/money-tools-app/static/css/main.79908598.chunk.css.map",
-    "static/js/2.78dadd51.chunk.js.LICENSE.txt": "/money-tools-app/static/js/2.78dadd51.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/money-tools-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.79908598.chunk.css",
+    "main.js": "/static/js/main.ba8f9691.chunk.js",
+    "main.js.map": "/static/js/main.ba8f9691.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05a55a92.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05a55a92.js.map",
+    "static/js/2.78dadd51.chunk.js": "/static/js/2.78dadd51.chunk.js",
+    "static/js/2.78dadd51.chunk.js.map": "/static/js/2.78dadd51.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d1f0f4e3ea23fdab5f75c60837b1fd91.js": "/precache-manifest.d1f0f4e3ea23fdab5f75c60837b1fd91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.79908598.chunk.css.map": "/static/css/main.79908598.chunk.css.map",
+    "static/js/2.78dadd51.chunk.js.LICENSE.txt": "/static/js/2.78dadd51.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d1b77f8.js",
+    "static/js/runtime-main.05a55a92.js",
     "static/js/2.78dadd51.chunk.js",
     "static/css/main.79908598.chunk.css",
-    "static/js/main.8652232c.chunk.js"
+    "static/js/main.ba8f9691.chunk.js"
   ]
 }
