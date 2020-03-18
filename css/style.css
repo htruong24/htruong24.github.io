@@ -10,6 +10,7 @@ html,
   margin: 0;
   padding: 0;
   width: 100%;
+  background: silver;
 }
 
 /* Center the content in the browser window */
@@ -20,4 +21,13 @@ html,
 
 .title {
   font-size: 3rem;
+}
+
+.header {
+  width: 100vw;
+  height: 300px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: green;
 }
